@@ -1,3 +1,4 @@
+[![.NET](https://github.com/joerivanarkel/AzureFunctionsBlobStorage/actions/workflows/dotnet.yml/badge.svg)](https://github.com/joerivanarkel/AzureFunctionsBlobStorage/actions/workflows/dotnet.yml)
 ## AzureFunctionsBlobStorage
 In this example I am using Azure Functions to fetch and read files from Azure Blob Storage using Azure Functions. 
 
